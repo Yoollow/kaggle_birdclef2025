@@ -1,0 +1,9 @@
+data/
+models/
+**/*__pycache__/
+**/*.iml
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.idea
+**/*.idea
